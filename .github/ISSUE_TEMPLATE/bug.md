@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### What Is the Error Message? (Delete this section if none)
+### What Is the Error Message? <!--Delete this section if none)-->
 - ⚠️[MESSAGE HERE]⚠️
 - line [#] in [file]
 - [The line of code the error points to]
@@ -17,7 +17,7 @@ assignees: ''
 - [I expected this to happen]
 - [This happened instead]
 
-### Steps to reproduce (if not reproducible, delete this section)
+### Steps to reproduce <!--if not reproducible, delete this section)-->
 - [Step]
 - [by]
 - [Step]
