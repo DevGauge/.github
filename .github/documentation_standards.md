@@ -1,0 +1,1 @@
+# DevGauge Documentation Standards
