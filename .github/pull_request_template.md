@@ -13,7 +13,7 @@
 
 `required`
 - [ ] tested locally
-- [ ] [updated the docs](https://github.com/DevGauge/FileEngineKit/blob/master/.github/documentation_standards.md)
+- [ ] [updated the docs](https://github.com/DevGauge/.github/blob/master/.github/documentation_standards.md)
 - [ ] ALL unit tests pass
 
 `optional`
