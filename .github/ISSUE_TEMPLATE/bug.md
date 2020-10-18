@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### What Is the Error Message? <!--Delete this section if none)-->
+### What Is the Error Message? <!--Delete this section if none-->
 - ⚠️[MESSAGE HERE]⚠️
 - line [#] in [file]
 - [The line of code the error points to]
