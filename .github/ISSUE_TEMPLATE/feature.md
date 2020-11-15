@@ -2,7 +2,7 @@
 name: New Feature
 about: Request a Feature or add to the roadmap
 title: ''
-labels: technical_direction
+labels: Needs Technical Direction
 assignees: ''
 ---
 
