@@ -6,12 +6,15 @@ labels: technical_direction
 assignees: ''
 ---
 
-#User Story: [User Story]
+# User Story: [User Story]
 
-# Summary: [Summary of feature]
+### Summary: [Summary of feature]
+
+# User Requirements
 - [bullets]
 
-# [Technical Requirements]
+
+# Technical Requirements
 - [bullets]
 
 # [Helpful Resources]
